@@ -1,2 +1,2 @@
-echo md5 (strtower (trim ( kristine.labate@gmail.com )
+echo md5 (strtlower (trim ( kristine.labate@gmail.com )
 
